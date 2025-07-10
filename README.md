@@ -71,10 +71,10 @@ pip install ultralytics torch torchvision opencv-python
 * `best.pt` (given detection model (given in the assignment, Kinldy downlowad from there))
 * `15sec_input_720p.mp4` (input video)
 
-3. Run the Python script:
+3. Run the Python script (depending on platform you are using):
 
 ```bash
-python solution.py
+python solution.py (or simply click execution button if directly cloning)
 ```
 
 ---
