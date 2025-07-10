@@ -87,4 +87,4 @@ python solution.py (or simply click execution button if directly cloning)
 
 ## 🤝 Acknowledgments
 
-This was a really interesting assignment — I learned a lot about combining object detection with re-ID embeddings. I tried to strike a balance between **simplicity and reliability**, and I'm happy with the current result.
+This was a really interesting assignment — I learned a lot about combining object detection with re-ID embeddings.
