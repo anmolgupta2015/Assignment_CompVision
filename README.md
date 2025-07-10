@@ -24,9 +24,9 @@ Design a player tracking system that can:
 
 I chose to **combine two models** to get the best of both worlds:
 
-### 1. **YOLOv8/YOLOv11 for Player Detection**
+### 1. **YOLOv11 for Player Detection(best.pt)**
 
-* My YOLO model (`best.pt`) detects all objects, but I filter only for the `player` class.
+* Given YOLO model (`best.pt`) detects all objects, but I filter only for the `player` class.
 * Bounding boxes are extracted frame-by-frame for those detections.
 
 ### 2. **ResNet18 for Appearance Embedding**
